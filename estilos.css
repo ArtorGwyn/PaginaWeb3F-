@@ -10,3 +10,7 @@ body{
 	text-align: center;
 }
 
+.foto{
+	display: block;
+	margin: auto;
+}
