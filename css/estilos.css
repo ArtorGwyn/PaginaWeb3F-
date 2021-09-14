@@ -1,0 +1,23 @@
+body{
+	background: #cfd9de;
+}
+
+#titulo{
+	text-align: center;
+}
+
+.subtitulo{
+	text-align: center;
+}
+
+.foto{
+	display: block;
+	margin: auto;
+}
+
+.wicon{
+position: fixed;
+bottom:0;
+right:0;
+width:5%;
+}
