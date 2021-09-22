@@ -5,14 +5,37 @@ body{
 #titulo{
 	text-align: center;
 }
+#titulo:hover{
+	background-color: white;
+}
 
 .subtitulo{
 	text-align: center;
+}
+.subtitulo:hover{
+	background-color: crimson;
+}
+
+p:hover{
+	background: white;
+}
+
+ul:hover{
+	background-color: white;
+}
+
+ol:hover{
+	background-color: crimson;
 }
 
 .foto{
 	display: block;
 	margin: auto;
+}
+
+.foto:hover{
+	transition: all .5s;
+	filter: saturate(180%);
 }
 
 .wicon{
@@ -21,3 +44,10 @@ bottom:0;
 right:0;
 width:5%;
 }
+
+a:hover{
+	color: hotpink;
+	text-decoration: underline;
+	background-color: lightgreen;
+}
+

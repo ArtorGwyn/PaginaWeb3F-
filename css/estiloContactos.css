@@ -1,0 +1,21 @@
+#titulo{
+	text-align: center;
+}
+
+.subtitulo{
+	text-align: center;
+}
+
+body{
+	background: #cfd9de;
+}
+
+.btn{
+	background: white;
+	border-radius: 15%;
+}
+
+.btn:hover{
+	background: crimson;
+	transition: all .5s;
+}
